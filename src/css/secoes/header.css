@@ -1,4 +1,5 @@
 .header {
+    /* posso coloca uma cor */
     padding: 30px 15px;
 }
 
@@ -10,7 +11,7 @@
     border-radius: 50%;
     width: 65px;
     height: 65px;
-    line-height: 55px;
+    line-height: 55px;/* ver se as iniciais ta centralizada */
     text-align: center;
     text-decoration: underline;
     transition: 0.2s;
